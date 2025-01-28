@@ -1,0 +1,1 @@
+/usr/local/bin/cc  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/adpcm-xq-exe.dir/adpcm-xq.c.o" -o adpcm-xq  libadpcm-lib.a -lm 

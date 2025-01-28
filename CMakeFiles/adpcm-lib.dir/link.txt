@@ -1,0 +1,2 @@
+/opt/homebrew/opt/binutils/bin/ar qc libadpcm-lib.a "CMakeFiles/adpcm-lib.dir/adpcm-lib.c.o" "CMakeFiles/adpcm-lib.dir/adpcm-dns.c.o"
+/opt/homebrew/opt/binutils/bin/ranlib libadpcm-lib.a

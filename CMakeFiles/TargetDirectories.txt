@@ -1,0 +1,4 @@
+/Users/rb/GitHub/adpcm-xq/CMakeFiles/adpcm-lib.dir
+/Users/rb/GitHub/adpcm-xq/CMakeFiles/adpcm-xq-exe.dir
+/Users/rb/GitHub/adpcm-xq/CMakeFiles/edit_cache.dir
+/Users/rb/GitHub/adpcm-xq/CMakeFiles/rebuild_cache.dir
